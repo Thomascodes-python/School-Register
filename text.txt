@@ -1,0 +1,2 @@
+Single responsibility priciple(SRP)
+Open/closeD principle  
